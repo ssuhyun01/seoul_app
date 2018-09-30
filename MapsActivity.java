@@ -1,4 +1,4 @@
-package org.techtown.isteam;
+package org.techtown.seoulapp_trial1;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
@@ -108,4 +108,4 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             }
         });
     }
-        }
+}

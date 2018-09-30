@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/popup1"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#191A19">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#B4B4B4"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:text="\n평일주간 및 휴일 09:00∼18:00 \n 평일야간 18:00∼21:00\n"/>
+
+</LinearLayout>

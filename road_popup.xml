@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/popup2"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#191A19">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#B4B4B4"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:text="\n-주소\n서울특별시 성북구 화랑로 63(하월곡동)\nTEL.02-2241-1749\n\n-버스 노선\n월곡역,트리즘빌딩(성북보건소)하차\n120,163,1017,1111,1113번\n\n-지하철\n6호선 월곡역하차 2번출구\n"/>
+
+</LinearLayout>
